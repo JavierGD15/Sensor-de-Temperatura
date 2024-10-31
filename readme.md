@@ -24,7 +24,8 @@ Esta aplicación permite medir la temperatura y la humedad usando un sensor DHT1
 
 ### Diagrama de Conexión
 
-![Diagrama de Conexión](https://link_a_tu_imagen_diagrama.png)
+![image](https://github.com/user-attachments/assets/37c09da2-d6c9-4b67-8ec0-2c57ea4ab71f)
+
 
 ## Código del Arduino
 
